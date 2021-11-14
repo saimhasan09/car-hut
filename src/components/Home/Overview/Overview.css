@@ -1,0 +1,8 @@
+.overview-container{
+    background-color: rgb(202, 202, 201);
+}
+.overview-container div{
+    background-color: rgba(34, 53, 56, 0.671);
+    color: white;
+}
+
